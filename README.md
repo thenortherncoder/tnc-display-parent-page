@@ -1,25 +1,24 @@
-=== Display Parent Page ===<br>
-Contributors: The Northern Coder<br>
-Tags: block<br>
-Tested up to: 6.8<br>
-Stable tag: 0.1.0<br>
-License: GPL-2.0-or-later<br>
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+# Display Parent Page
 
-== Description ==
+**Contributors**: The Northern Coder<br>
+**Tags**: block Tested up to: 6.8<br>
+**Stable tag**: 0.1.0<br>
+**License**: GPL-2.0-or-later<br>
+**License URI**: https://www.gnu.org/licenses/gpl-2.0.html
+
+## Description
 
 A block to display the parent page of the current page.
 
 Originally created to be displayed in the hero area so that when you're on a sub page it'd display the parent page for improved user experience/easy navigation.
 
-== Installation ==
+## Installation
 
 Upload the plugin files to the /wp-content/plugins/display-parent-page directory, or install the plugin through the WordPress plugins screen directly.
 
 Activate the plugin through the 'Plugins' screen in WordPress
 
-== Changelog ==
+## Changelog
 
-= 0.1.0 =
-
+0.1.0<br>
 Release
