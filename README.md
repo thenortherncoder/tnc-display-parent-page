@@ -1,6 +1,7 @@
 === Display Parent Page ===<br>
 Contributors: The Northern Coder<br>
-Tags: block Tested up to: 6.8<br>
+Tags: block<br>
+Tested up to: 6.8<br>
 Stable tag: 0.1.0<br>
 License: GPL-2.0-or-later<br>
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
